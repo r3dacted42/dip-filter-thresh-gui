@@ -33,19 +33,19 @@ you'll find it on the right side of the git repo page
 ## Screenshots
 
 - First launch  
-<img src="./screenshots/0.png" style="width:50%;">
+<img src="https://github.com/r3dacted42/dip-filter-thresh-gui/blob/master/screenshots/0.png?raw=true" style="width:50%;">
 
 - After loading an image  
-<img src="./screenshots/1.png" style="width:50%;">
+<img src="https://github.com/r3dacted42/dip-filter-thresh-gui/blob/master/screenshots/1.png?raw=true" style="width:50%;">
 
 - Applying edge filter  
-<img src="./screenshots/2.png" style="width:50%;">
+<img src="https://github.com/r3dacted42/dip-filter-thresh-gui/blob/master/screenshots/2.png?raw=true" style="width:50%;">
 
 - Applying gaussian adaptive thresholding  
-<img src="./screenshots/3.png" style="width:50%;">
+<img src="https://github.com/r3dacted42/dip-filter-thresh-gui/blob/master/screenshots/3.png?raw=true" style="width:50%;">
 
 - After a few iterations of otsu's thresholding  
-<img src="./screenshots/4.png" style="width:50%;"> 
+<img src="https://github.com/r3dacted42/dip-filter-thresh-gui/blob/master/screenshots/4.png?raw=true" style="width:50%;">
 
 ## Credits
 
