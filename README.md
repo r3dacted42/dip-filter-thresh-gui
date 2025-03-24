@@ -33,19 +33,19 @@ you'll find it on the right side of the git repo page
 ## Screenshots
 
 - First launch  
-<img src="https://github.com/r3dacted42/dip-filter-thresh-gui/blob/master/screenshots/0.png?raw=true" style="width:50%;">
+<img src="https://github.com/r3dacted42/dip-filter-thresh-gui/blob/master/screenshots/0.png?raw=true">
 
 - After loading an image  
-<img src="https://github.com/r3dacted42/dip-filter-thresh-gui/blob/master/screenshots/1.png?raw=true" style="width:50%;">
+<img src="https://github.com/r3dacted42/dip-filter-thresh-gui/blob/master/screenshots/1.png?raw=true">
 
 - Applying edge filter  
-<img src="https://github.com/r3dacted42/dip-filter-thresh-gui/blob/master/screenshots/2.png?raw=true" style="width:50%;">
+<img src="https://github.com/r3dacted42/dip-filter-thresh-gui/blob/master/screenshots/2.png?raw=true">
 
 - Applying gaussian adaptive thresholding  
-<img src="https://github.com/r3dacted42/dip-filter-thresh-gui/blob/master/screenshots/3.png?raw=true" style="width:50%;">
+<img src="https://github.com/r3dacted42/dip-filter-thresh-gui/blob/master/screenshots/3.png?raw=true">
 
 - After a few iterations of otsu's thresholding  
-<img src="https://github.com/r3dacted42/dip-filter-thresh-gui/blob/master/screenshots/4.png?raw=true" style="width:50%;">
+<img src="https://github.com/r3dacted42/dip-filter-thresh-gui/blob/master/screenshots/4.png?raw=true">
 
 ## Credits
 
